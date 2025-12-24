@@ -16,21 +16,6 @@
 
 ---
 
-# Teams – Repositories
-
-Ο/Η instructor θα δημιουργήσει 5 αντίγραφα του repo.
-Κάθε ομάδα θα δουλέψει στο δικό της repo:
-
-- team-alpha-cookbook
-- team-beta-cookbook
-- team-gamma-cookbook
-- team-delta-cookbook
-- team-epsilon-cookbook
-
-Θα σας σταλούν τα links ξεχωριστά.
-
----
-
 # Στόχος
 
 Practice a realistic Git collaboration workflow:
@@ -70,7 +55,7 @@ Practice a realistic Git collaboration workflow:
 - screenshot conflict resolution
 - screenshot commit history του branch
 - σύντομο reflection 3–5 προτάσεων:
-  *“What I learned about branches, PRs and conflicts”*
+"Τι έμαθα, τι με δυσκόλεψε, και τι μου άρεσε από το branch workflow, τα PRs και τα conflicts, και γενικά δουλεύoντας με το git και το Github."
 
 ---
 
@@ -78,9 +63,9 @@ Practice a realistic Git collaboration workflow:
 
 | Category | Points |
 |---|---|
-| Branch & Commit Quality | 8 |
-| Pull Request Quality | 6 |
-| Merge Conflict Resolution | 4 |
+| Branch & Commit Quality | 10 |
+| Pull Request Quality | 5 |
+| Merge Conflict Resolution | 3 |
 | Repo Hygiene | 2 |
 
 ---
