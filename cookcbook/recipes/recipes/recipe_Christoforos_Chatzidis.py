@@ -1,2 +1,2 @@
 def recipe():
-    return "Pastitsio"
+    return "Pastitsi"
