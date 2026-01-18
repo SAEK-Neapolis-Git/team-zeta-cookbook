@@ -1,6 +1,7 @@
 recipes = [
     "Georgios_Chazaridis - Kokkinisto me Laxano",
-    "Christoforos_Chatzidis - Pastitsio"
+    "Christoforos_Chatzidis - Pastitsio",
+    "Constantinos_Chamorousios - Makaronia me Kima"
 
 ]
 
